@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7083c411-f893-44f7-8b1c-9711259faa52}</UniqueIdentifier>
+      <Extensions>cpp</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{cb0685d2-a102-4f5a-8de8-02475b3e33e3}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="range.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="drop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="reshape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="split.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stride.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="call.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="take.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="find.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="override.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="unique.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="grade.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="each.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="index.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="functional.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="predicate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="range.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="predicate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="NOTES.txt" />
+  </ItemGroup>
+</Project>
